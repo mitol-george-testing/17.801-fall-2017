@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ce86032f-5132-e821-cd04-f268905fb61d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Political Science Scope and Methods",
+  "course_description": "This course is designed to provide an introduction to a variety of empirical research methods used by political scientists. The primary aims of the course are to make you a more sophisticated consumer of diverse empirical research and to allow you to conduct advanced independent work in your junior and senior years. This is not a course in data analysis. Rather, it is a course on how to approach political science research.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.801",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Projects",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
